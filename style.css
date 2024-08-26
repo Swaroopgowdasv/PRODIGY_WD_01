@@ -1,3 +1,4 @@
+
 @import url('https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap');
 
 
@@ -12,9 +13,10 @@ body {
 	font-size: 16px;
 	font-weight: normal;
 	line-height: 1.5;
-	color: #fefefe;	
+	color: #eae7e7;	
 	position: relative;
 	overflow-x: hidden;
+    
 }
 
 img {
