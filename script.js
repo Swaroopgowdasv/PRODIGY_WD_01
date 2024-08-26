@@ -1,3 +1,4 @@
+//js file
 const hamb = document.querySelector(".hamb");
 const navList = document.querySelector(".menu-overlay");
 
